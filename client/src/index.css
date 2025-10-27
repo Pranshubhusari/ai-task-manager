@@ -1,0 +1,6 @@
+/* Minimal styles; you can replace with Tailwind later */
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f3f4f6; }
+.container { max-width: 900px; margin: 40px auto; padding: 20px; }
+.card { background: white; padding: 16px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.btn { background: #2563eb; color: white; padding: 8px 12px; border-radius: 6px; cursor: pointer; border: none; }
+.input { padding: 8px; border-radius: 6px; border: 1px solid #d1d5db; width: 100%; box-sizing: border-box; }
