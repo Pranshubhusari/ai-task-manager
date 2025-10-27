@@ -107,18 +107,7 @@ You can later restore the real AI route once your OpenAI billing is active.
 
 ---
 
-## 🖼️ Screenshots (Add later)
-| Homepage | Task List | AI Priority |
-|-----------|------------|-------------|
-| *(Add your screenshots here)* | | |
-
----
 
 ## 🧑‍💻 Author
 **Pranshu Bhusari**  
-⭐ [GitHub Profile](https://github.com/YOUR-USERNAME)
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** — feel free to use and modify it.
+⭐ [GitHub Profile](https://github.com/Pranshubhusari)
