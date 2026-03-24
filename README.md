@@ -23,7 +23,6 @@ It’s built using the **MERN stack** — **MongoDB, Express, React, and Node.js
 | Backend | Node.js + Express |
 | Database | MongoDB Atlas |
 | AI | OpenAI API (GPT-3.5) |
-| Hosting | Render + Vercel |
 
 ---
 
